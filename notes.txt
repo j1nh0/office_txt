@@ -1,0 +1,12 @@
+find . -type d | cut -c 3-
+
+https://cyborg.ksecsolutions.com/unlocking-phone-with-nfc-implant/
+
+curl -s -o /dev/null -I -w "%{http_code}" https://git@github.com/j1nh0/linx
+
+
+curl -u 'j1nh0' https://api.github.com/user/repos -d '{"name":"img_vc_win10xpe_00.git"}'
+
+
+
+find -type f ! -name '.git' ! -name 'LICENSE' ! -name 'README.md' -exec cp -fv {} $DESTINATION$ \;
